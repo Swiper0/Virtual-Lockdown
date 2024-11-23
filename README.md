@@ -1,5 +1,5 @@
 ## About
-Spaceshooter themed game with powerups, Random generated Animated shooting Alien,score and highscore system.Polished with post processing included.
+Virtual Lockdown is a VR escape room game designed for VR Cardboard, where players must search for password codes hidden within the room. Using hints scattered throughout the environment, players will piece together clues to uncover the correct code and unlock the room. 
 
 <tbody>
     <tr>
