@@ -9,7 +9,7 @@ Virtual Lockdown is a VR escape room game designed for VR Cardboard, where playe
 <br>
 
 ## Scripts and Features
-scripts:
+Scripts:
 |  Script       | Description                                                  | Development Time |
 | ------------------- | ------------------------------------------------------------ | -------------- |
 | `Autowalk.cs` | Handles automatic player movement in VR Cardboard based on trigger input or looking down past a threshold. | ≈ 2 hours |
